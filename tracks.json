@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "title": "Kesariya Balam",
+    "artist": "Traditional Folk",
+    "category": "Rajasthani Special",
+    "audio": null
+  },
+  {
+    "id": 2,
+    "title": "Chaudhary",
+    "artist": "Mame Khan",
+    "category": "Rajasthani Special",
+    "audio": null
+  },
+  {
+    "id": 3,
+    "title": "Ghoomar",
+    "artist": "Shreya Ghoshal",
+    "category": "Rajasthani Special",
+    "audio": null
+  },
+  {
+    "id": 4,
+    "title": "Pallo Latke",
+    "artist": "Jyotica Tangri, Yasser Desai",
+    "category": "Rajasthani Special",
+    "audio": null
+  },
+  {
+    "id": 5,
+    "title": "Morni",
+    "artist": "Vishvajeet Choudhary",
+    "category": "Haryanvi DJ",
+    "audio": null
+  },
+  {
+    "id": 6,
+    "title": "52 Gaj Ka Daman",
+    "artist": "Renuka Panwar",
+    "category": "Haryanvi DJ",
+    "audio": null
+  },
+  {
+    "id": 7,
+    "title": "Chatak Matak",
+    "artist": "Renuka Panwar",
+    "category": "Haryanvi DJ",
+    "audio": null
+  },
+  {
+    "id": 8,
+    "title": "Solid Body",
+    "artist": "Raju Punjabi",
+    "category": "Haryanvi DJ",
+    "audio": null
+  },
+  {
+    "id": 9,
+    "title": "Laung Laachi",
+    "artist": "Mannat Noor",
+    "category": "Punjabi Hits",
+    "audio": null
+  },
+  {
+    "id": 10,
+    "title": "Lahore",
+    "artist": "Guru Randhawa",
+    "category": "Punjabi Hits",
+    "audio": null
+  },
+  {
+    "id": 11,
+    "title": "3 Peg",
+    "artist": "Sharry Mann",
+    "category": "Punjabi Hits",
+    "audio": null
+  },
+  {
+    "id": 12,
+    "title": "Brown Munde",
+    "artist": "AP Dhillon, Gurinder Gill",
+    "category": "Punjabi Hits",
+    "audio": null
+  },
+  {
+    "id": 13,
+    "title": "The Truck Anthem",
+    "artist": "OG Harsh Mix",
+    "category": "Truck Driver Special",
+    "audio": null
+  },
+  {
+    "id": 14,
+    "title": "Highway King",
+    "artist": "Desi Road Crew",
+    "category": "Truck Driver Special",
+    "audio": null
+  },
+  {
+    "id": 15,
+    "title": "Horn Please",
+    "artist": "Desi Road Crew",
+    "category": "Truck Driver Special",
+    "audio": null
+  },
+  {
+    "id": 16,
+    "title": "Safar",
+    "artist": "Arijit Singh",
+    "category": "Bollywood Road Trip",
+    "audio": null
+  },
+  {
+    "id": 17,
+    "title": "Ilahi",
+    "artist": "Arijit Singh",
+    "category": "Bollywood Road Trip",
+    "audio": null
+  },
+  {
+    "id": 18,
+    "title": "Phir Se Ud Chala",
+    "artist": "Mohit Chauhan",
+    "category": "Bollywood Road Trip",
+    "audio": null
+  },
+  {
+    "id": 19,
+    "title": "Zinda",
+    "artist": "Siddharth Mahadevan",
+    "category": "Bollywood Road Trip",
+    "audio": null
+  },
+  {
+    "id": 20,
+    "title": "Yun Hi Chala Chal",
+    "artist": "Udit Narayan, Hariharan, Kailash Kher",
+    "category": "Bollywood Road Trip",
+    "audio": null
+  },
+  {
+    "id": 21,
+    "title": "Pal Pal Dil Ke Paas",
+    "artist": "Kishore Kumar",
+    "category": "Hindi Old Songs",
+    "audio": null
+  },
+  {
+    "id": 22,
+    "title": "Musafir Hoon Yaaron",
+    "artist": "Kishore Kumar",
+    "category": "Hindi Old Songs",
+    "audio": null
+  },
+  {
+    "id": 23,
+    "title": "Zindagi Ek Safar",
+    "artist": "Kishore Kumar",
+    "category": "Hindi Old Songs",
+    "audio": null
+  },
+  {
+    "id": 24,
+    "title": "O Mere Dil Ke Chain",
+    "artist": "Kishore Kumar",
+    "category": "Hindi Old Songs",
+    "audio": null
+  },
+  {
+    "id": 25,
+    "title": "Chingari Koi Bhadke",
+    "artist": "Kishore Kumar",
+    "category": "Hindi Old Songs",
+    "audio": null
+  },
+  {
+    "id": 26,
+    "title": "Agar Tum Saath Ho",
+    "artist": "Alka Yagnik, Arijit Singh",
+    "category": "Sad Songs",
+    "audio": null
+  },
+  {
+    "id": 27,
+    "title": "Channa Mereya",
+    "artist": "Arijit Singh",
+    "category": "Sad Songs",
+    "audio": null
+  },
+  {
+    "id": 28,
+    "title": "Tujhe Bhula Diya",
+    "artist": "Mohit Chauhan, Shekhar",
+    "category": "Sad Songs",
+    "audio": null
+  },
+  {
+    "id": 29,
+    "title": "Phir Bhi Tumko Chaahunga",
+    "artist": "Arijit Singh",
+    "category": "Sad Songs",
+    "audio": null
+  },
+  {
+    "id": 30,
+    "title": "Bekhayali",
+    "artist": "Sachet Tandon",
+    "category": "Sad Songs",
+    "audio": null
+  },
+  {
+    "id": 31,
+    "title": "Nagin Dance",
+    "artist": "DJ Remix",
+    "category": "High Bass DJ",
+    "audio": null
+  },
+  {
+    "id": 32,
+    "title": "Daru Badnaam",
+    "artist": "Kamal Kahlon, Param Singh",
+    "category": "High Bass DJ",
+    "audio": null
+  },
+  {
+    "id": 33,
+    "title": "Kala Chashma",
+    "artist": "Amar Arshi, Badshah, Neha Kakkar",
+    "category": "High Bass DJ",
+    "audio": null
+  },
+  {
+    "id": 34,
+    "title": "Aankh Marey",
+    "artist": "Neha Kakkar, Mika Singh",
+    "category": "High Bass DJ",
+    "audio": null
+  },
+  {
+    "id": 35,
+    "title": "Abhi Toh Party Shuru Hui Hai",
+    "artist": "Badshah",
+    "category": "High Bass DJ",
+    "audio": null
+  },
+  {
+    "id": 36,
+    "title": "Raatan Lambiyan",
+    "artist": "Jubin Nautiyal, Asees Kaur",
+    "category": "Highway Night Drive",
+    "audio": null
+  },
+  {
+    "id": 37,
+    "title": "Khairiyat",
+    "artist": "Arijit Singh",
+    "category": "Highway Night Drive",
+    "audio": null
+  },
+  {
+    "id": 38,
+    "title": "Hawayein",
+    "artist": "Arijit Singh",
+    "category": "Highway Night Drive",
+    "audio": null
+  },
+  {
+    "id": 39,
+    "title": "Shayad",
+    "artist": "Arijit Singh",
+    "category": "Highway Night Drive",
+    "audio": null
+  },
+  {
+    "id": 40,
+    "title": "Heeriye",
+    "artist": "Jasleen Royal, Arijit Singh",
+    "category": "Highway Night Drive",
+    "audio": null
+  },
+  {
+    "id": 41,
+    "title": "Banno",
+    "artist": " स्वाती शर्मा",
+    "category": "Rajasthani Special",
+    "audio": null
+  },
+  {
+    "id": 42,
+    "title": " बन्ना रे",
+    "artist": "लोकगीत कलाकार",
+    "category": "Rajasthani Special",
+    "audio": null
+  },
+  {
+    "id": 43,
+    "title": "Desi Desi Na Bolya Kar",
+    "artist": "Raju Punjabi",
+    "category": "Haryanvi DJ",
+    "audio": null
+  },
+  {
+    "id": 44,
+    "title": "Jale 2",
+    "artist": "Shiva Choudhary",
+    "category": "Haryanvi DJ",
+    "audio": null
+  },
+  {
+    "id": 45,
+    "title": "Balam Thanedaar",
+    "artist": "Ruchika Jangid",
+    "category": "Haryanvi DJ",
+    "audio": null
+  },
+  {
+    "id": 46,
+    "title": "Khalasi",
+    "artist": "Aditya Gadhvi",
+    "category": "Punjabi Hits",
+    "audio": null
+  },
+  {
+    "id": 47,
+    "title": "Excuses",
+    "artist": "AP Dhillon",
+    "category": "Punjabi Hits",
+    "audio": null
+  },
+  {
+    "id": 48,
+    "title": "Insane",
+    "artist": "AP Dhillon",
+    "category": "Punjabi Hits",
+    "audio": null
+  },
+  {
+    "id": 49,
+    "title": "Born To Shine",
+    "artist": "Diljit Dosanjh",
+    "category": "Punjabi Hits",
+    "audio": null
+  },
+  {
+    "id": 50,
+    "title": "Truckan Wale",
+    "artist": "Desi Road Crew",
+    "category": "Truck Driver Special",
+    "audio": null
+  },
+  {
+    "id": 51,
+    "title": "Driver Banna",
+    "artist": "Lok Rang",
+    "category": "Truck Driver Special",
+    "audio": null
+  },
+  {
+    "id": 52,
+    "title": "Desi Truck Wala",
+    "artist": "Highway Beats",
+    "category": "Truck Driver Special",
+    "audio": null
+  },
+  {
+    "id": 53,
+    "title": "Dil Chahta Hai",
+    "artist": "Shankar Mahadevan",
+    "category": "Bollywood Road Trip",
+    "audio": null
+  },
+  {
+    "id": 54,
+    "title": "Khaabon Ke Parinday",
+    "artist": "Alyssa Mendonsa, Mohit Chauhan",
+    "category": "Bollywood Road Trip",
+    "audio": null
+  },
+  {
+    "id": 55,
+    "title": "Patakha Guddi",
+    "artist": "Nooran Sisters",
+    "category": "Bollywood Road Trip",
+    "audio": null
+  },
+  {
+    "id": 56,
+    "title": "Neele Neele Ambar Par",
+    "artist": "Kishore Kumar",
+    "category": "Hindi Old Songs",
+    "audio": null
+  },
+  {
+    "id": 57,
+    "title": "Ek Ajnabee Haseena Se",
+    "artist": "Kishore Kumar",
+    "category": "Hindi Old Songs",
+    "audio": null
+  },
+  {
+    "id": 58,
+    "title": "Tere Bina Zindagi Se",
+    "artist": "Lata Mangeshkar, Kishore Kumar",
+    "category": "Hindi Old Songs",
+    "audio": null
+  },
+  {
+    "id": 59,
+    "title": "Tadap Tadap",
+    "artist": "KK",
+    "category": "Sad Songs",
+    "audio": null
+  },
+  {
+    "id": 60,
+    "title": "Aadat",
+    "artist": "Atif Aslam",
+    "category": "Sad Songs",
+    "audio": null
+  },
+  {
+    "id": 61,
+    "title": "Dheere Dheere Se",
+    "artist": "Yo Yo Honey Singh",
+    "category": "High Bass DJ",
+    "audio": null
+  },
+  {
+    "id": 62,
+    "title": "Lungi Dance",
+    "artist": "Yo Yo Honey Singh",
+    "category": "High Bass DJ",
+    "audio": null
+  },
+  {
+    "id": 63,
+    "title": "Night Changes",
+    "artist": "One Direction",
+    "category": "Highway Night Drive",
+    "audio": null
+  },
+  {
+    "id": 64,
+    "title": "Kun Faya Kun",
+    "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+    "category": "Highway Night Drive",
+    "audio": null
+  }
+]
